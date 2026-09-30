@@ -1,0 +1,9 @@
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+nba_api==1.11.4
+truststore==0.10.4
+joblib==1.6.0
+jupyter==1.1.1
